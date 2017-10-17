@@ -13,7 +13,7 @@ get_template_directory_uri(),get_stylesheet_directory_uri()を返すショート
 
 ## ショートコード
 
-\[ystemplatedirurl\] : `get_template_directory_uri()`の結果を返します
+\[ystemplatedirurl\] : `get_template_directory_uri()`の結果を返します  
 \[ysstylesheetdirurl\] : `get_stylesheet_directory_uri()`の結果を返します
 
 
